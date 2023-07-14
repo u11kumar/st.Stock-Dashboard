@@ -1,4 +1,4 @@
 # st.Stock-Dashboard
 
 
-https://ststock-dashboard-u11kumar.streamlit.app/
+!pip3 install yfinance numpy plotly alpha-vantage stocknews 
