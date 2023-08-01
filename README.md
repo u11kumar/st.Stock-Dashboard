@@ -1,4 +1,8 @@
-![image](https://github.com/u11kumar/st.Stock-Dashboard/assets/47977758/5cb0f360-ad6f-43dc-a86f-916996a2e681)# st.Stock-Dashboard
+# Stock-Dashboard
+
+## Info:
+  Stock Dashboard made using **streamlit** as web module,**yfinance** and **alpha-vantage** to get all the numerical data which is converted to plot using **plotly** module ,data is mamage using **pandas** and **numpy** and 
+**stocknews** module helps to get top 10 news of the given company.
 
 #Configuration:
   ## ALL DEPENDENCIES
@@ -18,14 +22,24 @@
 # HOW TO USE:
 1.Use git clone to get all the files:
 
-    ## git clone https://github.com/u11kumar/st.Stock-Dashboard.git
+     git clone https://github.com/u11kumar/st.Stock-Dashboard.git
 2.Install all depencies and get your free api key mention above :
     
-    ## !pip3 install yfinance numpy plotly alpha-vantage stocknews pandas
+     !pip3 install yfinance numpy plotly alpha-vantage stocknews pandas
 
 3.Paste the api key in key section in stock_dash.py file:
-##Like this :
-    !()[/home/umeshkumar/Pictures/Screenshots/Screenshot from 2023-08-01 18.17.59.png]
+## Like this :
+  ![image](https://github.com/u11kumar/st.Stock-Dashboard/assets/47977758/5cb0f360-ad6f-43dc-a86f-916996a2e681)
+
+4.Run app using command :
+      
+      streamlit run stock_dash.py
+5.In Ticker section,type the company name listed on exchange and provide the start date and end date get your result.
+[Please: Check the right name of the company listed on the exchange.You can get this info on Yfinance site.]
+
+## Few examples :
+
+
 
 # KOTAK MAHINDRA BANK
 ##KOTAK BANK LISTED ON NSE ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.31.30.png)
