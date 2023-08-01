@@ -42,9 +42,9 @@
 
 
 # KOTAK MAHINDRA BANK
-##KOTAK BANK LISTED ON NSE ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.31.30.png)
-##KOTAK BANK STOCK PRICE IN A YEAR ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.33.09.png)
-##PRICE MOVEMENTS ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.33.24.png)
+## KOTAK BANK LISTED ON NSE ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.31.30.png)
+## KOTAK BANK STOCK PRICE IN A YEAR ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.33.09.png)
+## PRICE MOVEMENTS ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.33.24.png)
 
 # UBER
 ##UBER LISTED ON NYSE ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.31.06.png)
