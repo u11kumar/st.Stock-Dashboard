@@ -5,6 +5,15 @@
 
 
 
-KOTAK
+# KOTAK
 
-file:///home/umeshkumar/Pictures/Screenshots/Screenshot%20from%202023-08-01%2017.33.24.png
+
+# UBER
+
+
+# RELIANCE INDUSTRIES
+
+https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2016.58.09.png
+
+
+
