@@ -1,29 +1,34 @@
 # st.Stock-Dashboard
 
-All Dependencies:
-!pip3 install yfinance numpy plotly alpha-vantage stocknews pandas  
-
-
 Configuration:
-  ## Alpha Vantage 
-    Install module:pip install alpha-vantage : [info](https://pypi.org/project/alpha-vantage/)
-    Get your Api key : [here](https://www.alphavantage.co/support/#api-key)
+  ## ALL DEPENDENCIES
+    !pip3 install yfinance numpy plotly alpha-vantage stocknews pandas 
+
+     
+
+API Configuration:
+  ## Alpha Vantage Install module:
+    pip install alpha-vantage 
+    
+  [info](https://pypi.org/project/alpha-vantage/)
+  Get your Api key : [here](https://www.alphavantage.co/support/#api-key)
+
 
 
 # KOTAK MAHINDRA BANK
-KOTAK BANK LISTED ON NSE ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.31.30.png)
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.33.09.png)
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.33.24.png)
+##KOTAK BANK LISTED ON NSE ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.31.30.png)
+##KOTAK BANK STOCK PRICE IN A YEAR ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.33.09.png)
+##PRICE MOVEMENTS ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.33.24.png)
 
 # UBER
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.31.06.png)
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.05.png)
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.18.png)
+##UBER LISTED ON NYSE ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.31.06.png)
+##STOCK PRICE OF UBER IN A YEAR![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.05.png)
+##PRICE MOVEMENTS ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.18.png)
 ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.28.png)
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.37.png)
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.43.png)
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.50.png)
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.55.png)
+##BALANCE SHEET ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.37.png)
+##INCOME SHEET ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.43.png)
+##CASH FLOW STATEMENT ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.50.png)
+## TOP 10 NEWS OF UBER ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.32.55.png)
 
 
 
@@ -31,12 +36,11 @@ KOTAK BANK LISTED ON NSE ![](https://github.com/u11kumar/screenshot-of-projects/
 # RELIANCE INDUSTRIES
 
 
-![YAHOO RELIANCE ](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2016.58.09.png)
+##rELIANCE INDUSTRIES LISTED ON NSE ![ RELIANCE ](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2016.58.09.png)
 
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.31.42.png)
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2016.58.20.png)
-
-![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2016.58.33.png)
+##STOCK PRICE OF RELIANCE INDUSTRIES IN A YEAR (2016-2023)![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.31.42.png)
+##STOCK PRICE OF RELIANCE INDUSTRIES IN A YEAR (2022-2023)![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2016.58.20.png)
+##PRICE MOVEMENTS ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2016.58.33.png)
 
 
 
