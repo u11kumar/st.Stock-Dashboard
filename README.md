@@ -1,19 +1,31 @@
-# st.Stock-Dashboard
+![image](https://github.com/u11kumar/st.Stock-Dashboard/assets/47977758/5cb0f360-ad6f-43dc-a86f-916996a2e681)# st.Stock-Dashboard
 
-Configuration:
+#Configuration:
   ## ALL DEPENDENCIES
     !pip3 install yfinance numpy plotly alpha-vantage stocknews pandas 
 
      
 
-API Configuration:
+#API Configuration:
   ## Alpha Vantage Install module:
     pip install alpha-vantage 
     
   [info](https://pypi.org/project/alpha-vantage/)
+  
   Get your Api key : [here](https://www.alphavantage.co/support/#api-key)
 
 
+# HOW TO USE:
+1.Use git clone to get all the files:
+
+    ## git clone https://github.com/u11kumar/st.Stock-Dashboard.git
+2.Install all depencies and get your free api key mention above :
+    
+    ## !pip3 install yfinance numpy plotly alpha-vantage stocknews pandas
+
+3.Paste the api key in key section in stock_dash.py file:
+##Like this :
+    !()[/home/umeshkumar/Pictures/Screenshots/Screenshot from 2023-08-01 18.17.59.png]
 
 # KOTAK MAHINDRA BANK
 ##KOTAK BANK LISTED ON NSE ![](https://github.com/u11kumar/screenshot-of-projects/blob/main/Screenshot%20from%202023-08-01%2017.31.30.png)
